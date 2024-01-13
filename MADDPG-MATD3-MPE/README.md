@@ -50,6 +50,7 @@ See next steps
 
 ## References
 [1] [This](https://github.com/Lizhi-sjtu/MARL-code-pytorch/tree/main) is the reference repo, developed by Lizhi Sjtu.
+
 [2] The paper: @article{title={The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games}, author={Yu, Velu, Vinitsky,  Gao, Wang, Bayen and Wu}, journal={arXiv preprint arXiv:2103.01955}, year={2022}
 }
 
